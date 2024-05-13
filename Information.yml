@@ -1,0 +1,14 @@
+info:
+  parent:
+    - https://www.nhm.uio.no/english/research/groups/mana/index.html
+  mission:
+    - The research group for Machine-readable Nature (MaNa) is the contact point for the research data infrastructures at the Natural History Museum in Oslo including the Norwegian participant nodes of GBIF and DiSSCo. Our key research questions focus on machine-readable FAIR research data. Key research questions of MaNa (research group for Machine-readable Nature) focus on advancing scientific data standards and data publication solutions for machine-readable FAIR (findable, accessible, interoperable, and reusable) research data.
+  mandate:
+    - Our work is as international in scope as the data we handle in our daily operations - global!
+footer:
+  copyright:
+    - MANA @ NHM-UiO
+  github:
+    - https://github.com/uio-mana/  
+  contact:
+    - nhm-mana@nhm.uio.no
